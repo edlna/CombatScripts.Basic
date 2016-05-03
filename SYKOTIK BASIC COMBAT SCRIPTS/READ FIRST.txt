@@ -1,0 +1,12 @@
+========= HOW TO INSTALL ========
+
+1. Drag and drop the "scripts" folder into your BDO INSTALLATION DIRECTORY
+2. Drag and drop the .cs file from the class folder you want to play as into your "MMOViper/Resources/Plugins/Combat" Folder
+3. Load up MMOViper
+4. Select the options tab on the left
+5. Select combatscript tab on the top right
+6. Hit Clear then refresh
+7. Select the drop down menu and select the combat scripts
+8. Hit Finish
+9. Once you start the bot, hit "ALT + P" to load up the AIO lua script and set your desired options.
+10. Run your patrol/campaign!
